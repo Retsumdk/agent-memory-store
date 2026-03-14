@@ -1,0 +1,26 @@
+{
+  "name": "agent-memory-store",
+  "version": "1.0.0",
+  "description": "Persistent memory storage for AI agents with retrieval and decay features",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "memory",
+    "storage",
+    "retrieval",
+    "embeddings"
+  ],
+  "author": "The BookMaster",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "^1.0.0",
+    "typescript": "^5.3.0"
+  }
+}
