@@ -1,5 +1,8 @@
 # Agent Memory Store
 
+[![Build](https://github.com/Retsumdk/agent-memory-store/workflows/CI/badge.svg)](https://github.com/Retsumdk/agent-memory-store/actions)
+
+
 Persistent memory storage for AI agents with retrieval and decay features.
 
 [![CI](https://github.com/Retsumdk/agent-memory-store/workflows/CI/badge.svg)](https://github.com/Retsumdk/agent-memory-store/actions)
