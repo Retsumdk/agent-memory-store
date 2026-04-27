@@ -1,0 +1,20 @@
+{
+  "name": "agent-memory-store",
+  "description": "Persistent vector-backed memory store for AI agents with semantic retrieval and context window management",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "bun test",
+    "build": "tsc",
+    "start": "bun run src/index.ts"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "bun-types": "^1.0.0",
+    "typescript": "^5.3.0",
+    "@types/uuid": "^9.0.0"
+  }
+}
