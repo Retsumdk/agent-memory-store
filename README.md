@@ -154,4 +154,4 @@ MIT License
 
 ---
 
-Built by [Retsumdk](https://github.com/Retsumdk) with Zo Computer
+Built by [Retsumdk](https://github.com/Retsumdk)
